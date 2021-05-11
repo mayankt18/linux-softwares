@@ -1,0 +1,8 @@
+1. ADOBE ILLUSTRATOR FOR LINUX 
+  - https://github.com/Gictorbit/illustratorCClinux
+  
+  Instructions:
+    1.clone the git project
+    2.cd into the created folder
+    3.run ./setup.sh
+
